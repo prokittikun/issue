@@ -35,7 +35,7 @@
 
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 
-<div style="display: flex; gap: 5px; margin-bottom: 10px; align-items: center; justify-content: center;">
+<div style="display: flex; gap: 5px; margin-bottom: 10px; align-items: center; justify-content: center;" align="center">
 <img src="https://github.com/prokittikun/issue/assets/76927239/83e78f1e-19c9-44b0-b589-a5ae4620b21a" width="350">
 <img src="https://github.com/prokittikun/issue/assets/76927239/e10b3351-029a-47f0-9828-a68ce41647d1" width="350">
 </div>
