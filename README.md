@@ -82,8 +82,8 @@ $ java -jar Event-Hub.jar
 
 #### 3. Double click Event-Hub.jar
 <img width="1032" alt="install3" src="https://github.com/prokittikun/issue/assets/76927239/620e533d-3024-47e9-a6d8-2aba1198ecfb">
-#### Or
 
+#### Or
 ```bash
 # ~\Event-Hub
 $ java -jar Event-Hub.jar
