@@ -46,11 +46,10 @@
 
 
 ## Download[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
-#### jar file for Windows
-- Download <b>Event-Hub.zip</b> from [Release](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/tags) or click the link [Click](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/archive/refs/tags/3.0.0.zip)
-
-#### jar file for MacOs
-- Download <b>Event-Hub.zip</b> from [Release](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/tags) or click the link [Click](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/archive/refs/tags/3.0.0.zip)
+#### Jar file for Windows
+- Download <b>Event-Hub-for-Windows.zip</b> from [Release](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/releases)
+#### Jar file for MacOs
+- Download <b>Event-Hub-for-MacOs.zip</b> from [Release](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/releases)
 
 ## Installation[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 ### Windows Installation
@@ -96,19 +95,17 @@ This is User Manual [Guide](https://github.com/CS211-661/cs211-661-project-phuea
 📦cs211-661-project-phuea-khrai-party
 ┣ 📂data(เป็นเหมือน Database ที่ใช้เก็บข้อมูล)
 ┃ ┣ 📂event(เก็บข้อมูลประเภท Event)
-┃ ┃ ┣ 📜activity.csv
-┃ ┃ ┣ 📜answer.csv
-┃ ┃ ┣ 📜event.csv
-┃ ┃ ┣ 📜joinEvent.csv
-┃ ┃ ┗ 📜question.csv
+┃ ┃ ┣ 📜activity.csv(เก็บข้อมูลกิจกรรมของอิเวนต์)
+┃ ┃ ┣ 📜event.csv(เก็บข้อมูลอิเวนต์ทั้งหมด)
+┃ ┃ ┣ 📜joinEvent.csv(เก็บข้อมูลการเข้าร่วมอิเวนต์)
 ┃ ┣ 📂image(เก็บรูปภาพทั้งหมดที่รับจาก User)
 ┃ ┃ ┣ 📂avatar(รูปภาพโพรไฟล์)
 ┃ ┃ ┗ 📂event(รูปภาพอิเวนต์)
 ┃ ┣ 📂team(เก็บข้อมูลประเภท Team)
-┃ ┃ ┣ 📜activity.csv
-┃ ┃ ┣ 📜chat.csv
-┃ ┃ ┣ 📜team.csv
-┃ ┃ ┗ 📜teamMember.csv
+┃ ┃ ┣ 📜activity.csv(เก็บข้อมูลกิจกรรมของทีม)
+┃ ┃ ┣ 📜chat.csv(เก็บข้อมูลประวิติการสนทนา)
+┃ ┃ ┣ 📜team.csv(เก็บข้อมูลทีมทั้งหมด)
+┃ ┃ ┗ 📜teamMember.csv(เก็บข้อมูลการเข้าร่วมทีม)
 ┃ ┣ 📜user-guide.pdf(คู่มือการใช้งาน)
 ┃ ┗ 📜user.csv
 ┣ 📂src(Source code ของโปรแกรม)
