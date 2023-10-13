@@ -30,7 +30,8 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage/Examples</a> •
   <a href="#accounts">Account Tests</a> •
-  <a href="#project-structure">Project Structure</a>
+  <a href="#project-structure">Project Structure</a> • 
+  <a href="#conclusion">Conslusion</a>
 </p>
 
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
