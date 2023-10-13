@@ -53,26 +53,43 @@
 
 ## Installation[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 ### Windows Installation
-### 1. Extract Zip File
+#### 1. Extract Zip File
 ![install_1](https://github.com/prokittikun/issue/assets/76927239/bfe3a140-696d-4f91-8398-c1bf8174dd2a)
 
-### 2. Select Event-Hub Folder
+#### 2. Select Event-Hub Folder
 ![install_2](https://github.com/prokittikun/issue/assets/76927239/2ba91a79-9868-41cc-922b-75ec2680732c)
 
-### 3. Double Click Event-Hub.jar
+#### 3. Double Click Event-Hub.jar
 ![install_3](https://github.com/prokittikun/issue/assets/76927239/1dc63383-d3cb-4791-bd79-4f73dd35df9a)
 
-Or
+#### Or
 
 ```bash
 # ~\Event-Hub
 $ java -jar Event-Hub.jar
 ```
 
-### 5. Congratulations, you have succeeded. 🎉
+#### 5. Congratulations, you have succeeded. 🎉
 ![install5](https://github.com/prokittikun/issue/assets/76927239/791f7ad0-b4a4-4edd-aba0-a91e5b53e29a)
 
+### MacOs Installation
 
+#### 1. Double click Event-Hub.zip
+<img width="289" alt="install1" src="https://github.com/prokittikun/issue/assets/76927239/7dff9a23-9315-4021-91f4-320e9d70981d">
+
+#### 2. Open Event-Hub folder
+<img width="358" alt="install2" src="https://github.com/prokittikun/issue/assets/76927239/09cc102e-bb32-4c48-9042-58fc5482525b">
+
+#### 3. Double click Event-Hub.jar
+<img width="1032" alt="install3" src="https://github.com/prokittikun/issue/assets/76927239/620e533d-3024-47e9-a6d8-2aba1198ecfb">
+#### Or
+```bash
+# ~\Event-Hub
+$ java -jar Event-Hub.jar
+```
+
+#### 4. Congratulations, you have succeeded. 🎉
+<img width="1312" alt="install4" src="https://github.com/prokittikun/issue/assets/76927239/e5224e11-53a4-4f0f-a3c5-c7363968d226">
 
 ## Usage[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 
@@ -88,7 +105,7 @@ This is User Manual [Guide](https://github.com/CS211-661/cs211-661-project-phuea
 | Yada       | 2609 | user  |
 | Jimin  | 1111      | user  |
 | star     | 2468 | user |
-| kura  |9999| staff |
+| kura  |9999| user |
 
 ## Project Structure[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 <pre>
