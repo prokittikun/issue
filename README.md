@@ -46,28 +46,34 @@
 
 
 ## Download[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
-#### jar file for Windows and MacOs
-- Download <b>Event-Hub.zip</b> from [Release tags](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/tags) or click the link [Click](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/archive/refs/tags/3.0.0.zip)
+#### jar file for Windows
+- Download <b>Event-Hub.zip</b> from [Release](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/tags) or click the link [Click](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/archive/refs/tags/3.0.0.zip)
+
+#### jar file for MacOs
+- Download <b>Event-Hub.zip</b> from [Release](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/tags) or click the link [Click](https://github.com/CS211-661/cs211-661-project-phuea-khrai-party/archive/refs/tags/3.0.0.zip)
 
 ## Installation[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
-#### 1. Extract Zip File
-![install1](https://github.com/prokittikun/issue/assets/76927239/1e8498e7-2eb3-4163-9db7-b3515069d36c)
+### Windows Installation
+### 1. Extract Zip File
+![install_1](https://github.com/prokittikun/issue/assets/76927239/bfe3a140-696d-4f91-8398-c1bf8174dd2a)
 
-#### 2. Select Unzip folder
-![install2](https://github.com/prokittikun/issue/assets/76927239/fb603a3c-cba3-46b9-85e6-3df31043da8e)
+### 2. Select Event-Hub Folder
+![install_2](https://github.com/prokittikun/issue/assets/76927239/2ba91a79-9868-41cc-922b-75ec2680732c)
 
-#### 3. Select Event-Hub-jar-file
-![install3](https://github.com/prokittikun/issue/assets/76927239/7e900e7e-c303-4740-8920-743473cf3b56)
+### 3. Double Click Event-Hub.jar
+![install_3](https://github.com/prokittikun/issue/assets/76927239/1dc63383-d3cb-4791-bd79-4f73dd35df9a)
 
-#### 4. Double Click Event-Hub.jar
-![install4](https://github.com/prokittikun/issue/assets/76927239/212188d3-428a-4c49-85bf-0b710c6862c5)
-### Or
+Or
+
 ```bash
-# ~\Event-Hub-jar-file
+# ~\Event-Hub
 $ java -jar Event-Hub.jar
 ```
+
 ### 5. Congratulations, you have succeeded. 🎉
 ![install5](https://github.com/prokittikun/issue/assets/76927239/791f7ad0-b4a4-4edd-aba0-a91e5b53e29a)
+
+
 
 ## Usage[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 
