@@ -37,8 +37,8 @@
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 
 <div style="display: flex; gap: 5px; margin-bottom: 10px; align-items: center; justify-content: center;" align="center">
-<img src="https://github.com/prokittikun/issue/assets/76927239/83e78f1e-19c9-44b0-b589-a5ae4620b21a" width="350">
-<img src="https://github.com/prokittikun/issue/assets/76927239/e10b3351-029a-47f0-9828-a68ce41647d1" width="350">
+<img src="https://github.com/prokittikun/issue/assets/76927239/815ab306-ba5a-48bf-bf75-2e27fcb89420" width="350">
+<img src="https://github.com/prokittikun/issue/assets/76927239/a2bae852-fde4-4099-a4e8-f3372a3b8569" width="350">
 </div>
 
 **Event Hub** (*อิเวนต์ ฮับ*) เป็นโปรแกรมที่ถูกพัฒนาขึ้นเพื่อให้ความสะดวกในการจัดการกับกิจกรรมและอิเวนต์ต่าง ๆ ในที่เดียว โดยเราได้รวบรวมฟีเจอร์ต่าง ๆ เพื่อให้ผู้ใช้สามารถสร้างและจัดการกับอิเวนต์ได้อย่างมีประสิทธิภาพและง่ายดายมากยิ่งขึ้น ภายใน "Event Hub" มีฟีเจอร์หลากหลายที่สำคัญ เช่น ระบบสมาชิก, การสร้างอิเวนต์, การเข้าร่วมอิเวนต์, การสร้างทีมภายใต้อิเวนต์, การสร้างกำหนดการต่าง ๆ และอื่น ๆ อีกมากมายภายในระบบ
