@@ -88,7 +88,7 @@ This is User Manual [Guide](https://github.com/CS211-661/cs211-661-project-phuea
 | Yada       | 2609 | user  |
 | Jimin  | 1111      | user  |
 | star     | 2468 | user |
-| kura  |9999| staff |
+| kura  |9999| user |
 
 ## Project Structure[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 <pre>
