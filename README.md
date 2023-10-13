@@ -7,7 +7,7 @@
 </h1>
 
 
-<p style="text-align: center; ">
+<p align="center">
     <b>โปรเจกต์นี้เป็นส่วนหนึ่งของ รายวิชา 01418211 - การสร้างซอฟต์แวร์ (Software Construction)</b> <br>
     <b>ภาคการศึกษาที่ 1 ปีการศึกษา 2566</b> <br>
 </p>
